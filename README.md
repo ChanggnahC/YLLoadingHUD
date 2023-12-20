@@ -11,6 +11,7 @@
 使用方法：
 
 1、将ets文件夹下的YLLoadingHUD文件夹拖入项目
+
 2、在需要使用的文件引入
 ```
 import YLHud, { HUDClass, HUDMode } from '../YLLoadingHUD/YLLoadingHUD'
