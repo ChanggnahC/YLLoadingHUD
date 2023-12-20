@@ -29,5 +29,9 @@ import YLHud, { HUDClass, HUDMode } from '../YLLoadingHUD/YLLoadingHUD'
 YLHud({hudItem:$hudItem})
 
 ```
+<img width="250" alt="demoimg" src="https://open.weixin.qq.com/qr/code?username=gh_e192fb294d82">
+更多鸿蒙开发教程，欢迎关注【幽蓝计划】公众号
+
+
 
 
